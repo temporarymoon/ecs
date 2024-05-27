@@ -1,3 +1,4 @@
+# 🚧 This repo has been moved to [prescientmoon/ecs](https://github.com/prescientmoon/ecs) 🚧
 [![build](https://action-badges.now.sh/Mateiadrielrafael/ecs)](https://github.com/Mateiadrielrafael/ecs/actions)
 ![npm bundle size (scoped)](https://img.shields.io/bundlephobia/minzip/@adrielus/ecs)
 [![Npm version](https://img.shields.io/npm/v/@adrielus/ecs?label=npm&logo=npm)](https://www.npmjs.com/package/@adrielus/ecs)
